@@ -1,4 +1,4 @@
-import { personal, projects } from '../data'
+import { personal} from '../data'
 import '../styles/Hero.css'
 
 export default function Hero() {
@@ -21,7 +21,7 @@ export default function Hero() {
               View Projects
             </a>
             <a
-              href="/Karthik_S_Resume.pdf"
+              href="/Karthik-Resume.pdf"
               className="btn btn--ghost"
               download
             >
